@@ -1,3 +1,11 @@
 th {
     font-size: 30px;
 }
+
+
+input {
+    border: black 2px solid;
+    padding: 2px;
+    height: 70px;
+    width: 210px;
+}
